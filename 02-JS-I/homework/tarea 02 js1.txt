@@ -1,0 +1,11 @@
+Variables: una variable almacena valores ya sea numero o palabras y estos valores pueden ir cambiando.
+
+Strings: son textos que están encerrados entre comillas simples o dobles.
+
+Funciones: son tipos de objetos, cuando tenemos un conjunto de variables se pueden usar funciones para calcularlas o cambiarlas.
+Argumentos: los argumentos son valores que se pasan a la función cuando esta es invocada.
+Return: es una declaración que finaliza la ejecución de una función y especifica un valor para ser devuelto a quien llama a la función.
+
+IF: Ejecuta una sentencia si una condición específicada es evaluada como verdadera.
+
+Valores booleanos: tenemos 2 opciones de estos valores, 0 o 1, en JS van a ser verdadero o falso.
