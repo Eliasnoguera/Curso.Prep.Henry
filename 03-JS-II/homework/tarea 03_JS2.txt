@@ -1,0 +1,8 @@
+
+FOR: es un tipo de bucle que se utiliza para repetir una o mas instrucciones un determinado numero de veces, se lo suele utilizar cuando sabemos el numero de veces que queremos que se ejecute.
+
+AND: es un operador lógico donde el resultado es verdadero si ambas expresiones son verdaderas.
+
+OR: es un operador lógico donde el resultado es verdadero si alguna expresión es verdadera.
+
+NOT: es un operador lógico donde el resultado invierte la condición de la expresión.
